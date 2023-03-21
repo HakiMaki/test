@@ -1,0 +1,15 @@
+/Users/hakimazisov/Test/task/bin/Debug/net6.0/task
+/Users/hakimazisov/Test/task/bin/Debug/net6.0/task.deps.json
+/Users/hakimazisov/Test/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/hakimazisov/Test/task/bin/Debug/net6.0/task.dll
+/Users/hakimazisov/Test/task/bin/Debug/net6.0/task.pdb
+/Users/hakimazisov/Test/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/hakimazisov/Test/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakimazisov/Test/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/hakimazisov/Test/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/hakimazisov/Test/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/hakimazisov/Test/task/obj/Debug/net6.0/task.dll
+/Users/hakimazisov/Test/task/obj/Debug/net6.0/refint/task.dll
+/Users/hakimazisov/Test/task/obj/Debug/net6.0/task.pdb
+/Users/hakimazisov/Test/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/hakimazisov/Test/task/obj/Debug/net6.0/ref/task.dll
